@@ -11,11 +11,17 @@ Ngày kết thúc: 27/09/2025
 - Thứ 7: Hoàn thiện báo cáo thực hành.
 - Chủ nhật: Ôn tập tất cả môn đã học.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+>>>>>>> Stashed changes
 Sprint goals:
 - Build login flow
 - Write unit tests
 - Prepare demo deck
+<<<<<<< Updated upstream
 =======
 - Draft release notes
 - Collect feedback
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
