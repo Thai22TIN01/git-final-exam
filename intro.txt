@@ -1,4 +1,4 @@
-Hello, this is Nguyễn Đình Thái
+Hello, this is Nguyễn Đình Thái.
 Tôi là sinh viên năm 4 ngành CNTT, Trường ĐH Nam Cần Thơ.
 Tôi yêu thích công nghệ và lập trình.
 Tôi đang học để trở thành một lập trình viên Android giỏi.
