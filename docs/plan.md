@@ -12,6 +12,7 @@ Ngày kết thúc: 27/09/2025
 - Chủ nhật: Ôn tập tất cả môn đã học.
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
 >>>>>>> Stashed changes
 Sprint goals:
@@ -24,4 +25,8 @@ Sprint goals:
 - Collect feedback
 >>>>>>> Stashed changes
 =======
+>>>>>>> Stashed changes
+=======
+- Draft release notes
+- Collect feedback
 >>>>>>> Stashed changes
