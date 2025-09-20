@@ -13,3 +13,10 @@ Kỹ năng:
 - Chơi đàn
 - Hát
 - Chơi thể thao
+
+Kế hoạch học tập:
+- Ôn tập kiến thức Git và GitHub.
+- Luyện tập các bài tập Python và Java.
+- Hoàn thành project Android trong học kỳ này.
+- Chuẩn bị cho kỳ thi cuối kỳ.
+- Rèn luyện kỹ năng làm việc nhóm.
