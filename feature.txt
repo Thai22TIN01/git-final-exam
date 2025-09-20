@@ -1,0 +1,6 @@
+Tính năng mới: Quản lý danh sách công việc.
+- Người dùng có thể thêm công việc.
+- Người dùng có thể xoá công việc.
+- Người dùng có thể đánh dấu hoàn thành.
+- Dữ liệu được lưu trữ trong file.
+- Giao diện đơn giản, dễ sử dụng.
