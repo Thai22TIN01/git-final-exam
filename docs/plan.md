@@ -10,7 +10,12 @@ Ngày kết thúc: 27/09/2025
 - Thứ 6: Học môn Lịch sử Đảng.
 - Thứ 7: Hoàn thiện báo cáo thực hành.
 - Chủ nhật: Ôn tập tất cả môn đã học.
+<<<<<<< Updated upstream
 Sprint goals:
 - Build login flow
 - Write unit tests
 - Prepare demo deck
+=======
+- Draft release notes
+- Collect feedback
+>>>>>>> Stashed changes
